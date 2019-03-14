@@ -1,1 +1,2 @@
+This is master change in file 3
 this is file 3
